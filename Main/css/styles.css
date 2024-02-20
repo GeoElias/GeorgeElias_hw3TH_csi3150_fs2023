@@ -50,7 +50,7 @@ a.material-symbols-rounded:hover {
 }
 
 
-/*--------------------------------*/
+
 
 header {
   height: 760px;
@@ -97,7 +97,7 @@ header .header-text #tour {
   font-size: 1.25rem;
 }
 
-/*first sec-------------------------*/
+
 
 .first-sec {
   height: 530px;
@@ -141,7 +141,7 @@ header .header-text #tour {
   color: var(--font-color-secondary);
 }
 
-/*second sec-------------------------------------*/
+
 
 .second-sec {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -214,7 +214,6 @@ header .header-text #tour {
   color: var(--font-color-secondary);
 }
 
-/*Third sec-------------------------------*/
 
 .third-sec {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -254,7 +253,7 @@ header .header-text #tour {
   color: var(--font-color-secondary);
 }
 
-/*Fourth sec------------------------------*/
+
 
 .fourth-sec {
   height: 495px;
@@ -302,7 +301,7 @@ header .header-text #tour {
   color: var(--font-color-secondary);
 }
 
-/*Fifth sec----------------------------------------*/
+
 
 .fifth-sec {
   height: 610px;
@@ -347,7 +346,7 @@ header .header-text #tour {
   margin-bottom: -3%;
 }
 
-/*sixth sec---------------------------------------*/
+
 
 .sixth-sec {
   height: 75vh;
@@ -363,7 +362,7 @@ header .header-text #tour {
   border: none;
 }
 
-/*footer-------------------------------------------------*/
+
 
 footer {
   height: 86vh;
